@@ -1,1 +1,1 @@
-# -dichotomy-method
+#dichotomy-method code c++
